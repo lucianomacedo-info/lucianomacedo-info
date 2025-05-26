@@ -1,11 +1,11 @@
 <h1 align="center">👋 Olá! Eu sou o Luciano Macedo | Hi, I'm Luciano Macedo</h1>
 
 <p align="center">
-Desenvolvedor Full Stack apaixonado por tecnologia. Atualmente focado no desenvolvimento de <strong>aplicativos mobile com React Native</strong>, mas com ampla experiência em <strong>front-end, back-end e mobile</strong> com diversas stacks modernas.
+Desenvolvedor Full Stack apaixonado por tecnologia. Atualmente focado no desenvolvimento de <strong>aplicativos mobile com React Native</strong> e aprendendo <strong>Python para back-end e automação</strong>. Também atuo com <strong>front-end, back-end e mobile</strong> usando stacks modernas.
 </p>
 
 <p align="center">
-Full Stack Developer passionate about technology. Currently focused on building <strong>mobile apps with React Native</strong>, with solid experience in <strong>front-end, back-end and mobile</strong> using modern stacks.
+Full Stack Developer passionate about technology. Currently focused on <strong>building mobile apps with React Native</strong> and learning <strong>Python for back-end and automation</strong>. I also work with <strong>front-end, back-end and mobile</strong> using modern stacks.
 </p>
 
 ---
@@ -38,10 +38,11 @@ Full Stack Developer passionate about technology. Currently focused on building 
 
 ## 📚 Atualmente estudando | Currently Learning
 
-- 🧠 React Native avançado / Advanced React Native
-- 🧱 Arquitetura mobile / Mobile architecture
-- 🐳 Docker & DevOps basics
-- 🧪 Testes com Jest e E2E
+- 🐍 **Focado em aprender Python para back-end e automação**
+- 🧱 Arquitetura de aplicativos mobile
+- 🚀 Boas práticas de performance em React Native
+- 🧪 Testes automatizados (Jest, E2E)
+- 🐳 Fundamentos de Docker e DevOps
 
 ---
 
@@ -88,4 +89,7 @@ Full Stack Developer passionate about technology. Currently focused on building 
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" alt="Coding gif" />
+  <br><br>
+  Obrigado por visitar meu perfil! 👨‍💻✨ Thanks for visiting!
+</div>
