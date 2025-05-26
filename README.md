@@ -1,14 +1,18 @@
-<h1 align="center">👋 Olá! Eu sou o Luciano Macedo</h1>
+<h1 align="center">👋 Olá! Eu sou o Luciano Macedo | Hi, I'm Luciano Macedo</h1>
 
 <p align="center">
-Desenvolvedor full stack apaixonado por tecnologia. Atualmente focado em <strong>aplicativos mobile com React Native</strong>, mas com experiência ampla em <strong>front-end e back-end</strong> usando diversas stacks modernas.
+Desenvolvedor Full Stack apaixonado por tecnologia. Atualmente focado no desenvolvimento de <strong>aplicativos mobile com React Native</strong>, mas com ampla experiência em <strong>front-end, back-end e mobile</strong> com diversas stacks modernas.
+</p>
+
+<p align="center">
+Full Stack Developer passionate about technology. Currently focused on building <strong>mobile apps with React Native</strong>, with solid experience in <strong>front-end, back-end and mobile</strong> using modern stacks.
 </p>
 
 ---
 
-### 🚀 Tecnologias que uso no dia a dia
+## 🚀 Tecnologias que uso | Tech Stack
 
-#### 💻 Front-end
+### 💻 Front-end & Mobile
 
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
@@ -18,38 +22,70 @@ Desenvolvedor full stack apaixonado por tecnologia. Atualmente focado em <strong
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 
-#### 🧠 Back-end
+### 🧠 Back-end
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
 ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+
+### 💾 Bancos de Dados | Databases
+
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
 ---
 
-### 📚 Atualmente aprendendo
+## 📚 Atualmente estudando | Currently Learning
 
-- 🧠 React Native avançado
-- 🧱 Arquitetura de apps mobile
-- 🚀 Performance e boas práticas em desenvolvimento mobile
-
----
-
-### 📫 Como me encontrar
-
-- GitHub: [@lucianomacedo-info](https://github.com/lucianomacedo-info)
+- 🧠 React Native avançado / Advanced React Native
+- 🧱 Arquitetura mobile / Mobile architecture
+- 🐳 Docker & DevOps basics
+- 🧪 Testes com Jest e E2E
 
 ---
 
-### ✨ Sobre mim
+## 📈 Estatísticas do GitHub | GitHub Stats
 
-- 🔍 Sempre explorando novas tecnologias e formas de criar soluções elegantes.
-- 🛠️ Curioso, autodidata e movido por desafios técnicos.
-- 🎧 Codando com uma boa playlist e café ao lado ☕
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=lucianomacedo-info&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianomacedo-info&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=lucianomacedo-info&theme=radical&hide_border=false"/>
+</p>
+
+---
+
+## 📫 Contato | Contact
+
+<p align="center">
+  <a href="https://github.com/lucianomacedo-info">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
+  </a>
+  <!-- Substitua os links abaixo pelos seus -->
+  <a href="https://www.linkedin.com/in/seu-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:seu@email.com">
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## ✨ Sobre mim | About Me
+
+- 🎯 Foco em entregar soluções que funcionem de forma clara, limpa e eficiente
+- 🧩 Curioso e sempre explorando novas linguagens e ferramentas
+- ☕ Café, código e música boa — combinação ideal para produtividade
 
 ---
 
 <div align="center">
-  Obrigado por visitar meu perfil! 🤝
-</div>
+  <img src="https://media.giphy.com/media/qgQUggAC3
