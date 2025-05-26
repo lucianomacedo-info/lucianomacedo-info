@@ -68,6 +68,4 @@ Desenvolvedor Full Stack apaixonado por tecnologia. Atualmente focado no desenvo
 
 <div align="center">
   👨‍💻 Obrigado por visitar meu perfil!
-   <br>
-  ✨ Thanks for visiting!
 </div>
