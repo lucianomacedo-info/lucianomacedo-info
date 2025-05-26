@@ -73,5 +73,7 @@ Full Stack Developer passionate about technology. Currently focused on <strong>b
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" alt="Coding gif" />
   <br><br>
-  Obrigado por visitar meu perfil! 👨‍💻✨ Thanks for visiting!
+  Obrigado por visitar meu perfil! 👨‍💻
+   <br><br>
+  ✨ Thanks for visiting!
 </div>
