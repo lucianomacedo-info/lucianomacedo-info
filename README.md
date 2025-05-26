@@ -41,25 +41,7 @@ Full Stack Developer passionate about technology. Currently focused on <strong>b
 - 🐍 **Focado em aprender Python para back-end e automação**
 - 🧱 Arquitetura de aplicativos mobile
 - 🚀 Boas práticas de performance em React Native
-- 🧪 Testes automatizados (Jest, E2E)
-- 🐳 Fundamentos de Docker e DevOps
 
----
-
-## 📈 Estatísticas do GitHub | GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=lucianomacedo-info&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianomacedo-info&layout=compact&theme=radical" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=lucianomacedo-info&theme=radical&hide_border=false"/>
-</p>
 
 ---
 
