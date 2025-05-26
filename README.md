@@ -1,11 +1,7 @@
-<h1 align="center">👋 Olá! Eu sou o Luciano Macedo <br> Hi, I'm Luciano Macedo</h1>
+<h1 align="center">👋 Olá! Eu sou o Luciano Macedo </h1>
 
 <p align="center">
 Desenvolvedor Full Stack apaixonado por tecnologia. Atualmente focado no desenvolvimento de <strong>aplicativos mobile com React Native</strong> e aprendendo <strong>Python para back-end e automação</strong>. Também atuo com <strong>front-end, back-end e mobile</strong> usando stacks modernas.
-</p>
-
-<p align="center">
-Full Stack Developer passionate about technology. Currently focused on <strong>building mobile apps with React Native</strong> and learning <strong>Python for back-end and automation</strong>. I also work with <strong>front-end, back-end and mobile</strong> using modern stacks.
 </p>
 
 ---
